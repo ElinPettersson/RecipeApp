@@ -22,8 +22,12 @@ DerivedData/
 *.perspectivev3
 !default.perspectivev3
 
+RecipeApp/API/RecipeAPIKey.swift
+
 ## Obj-C/Swift specific
 *.hmap
+
+RecipeApp/GoogleService-Info.plist
 
 ## App packaging
 *.ipa
